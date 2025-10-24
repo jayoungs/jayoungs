@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a results-driven analyst with 10+ years of experience turning evidence into actionable insights that drive strategy, optimize processes, and enhance customer experience across mission-driven and customer-focused organizations. Skilled in Excel, SQL, R, and Tableau, with a passion for using data to uncover growth opportunities and scale business impact.
+I am a results-driven analyst with 10+ years of experience translating needs and evidence into actionable insights that drive strategy, optimize processes, and enhance customer experience across mission-driven and customer-focused organizations. Skilled in Excel, SQL (Big Query, PostgreSQL), R, and Tableau, with a passion for using data to uncover growth opportunities and scale business impact.
 
-#### ✨A little bit more about my career through interactive dashboard [Links](https://public.tableau.com/views/MyCareerDashboard_17418902648460/Page1_ExperienceEducation3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### ✨A little bit more about my career through an interactive dashboard [Links](https://public.tableau.com/views/MyCareerDashboard_17418902648460/Page1_ExperienceEducation3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1198" height="601" alt="My Career Dashboard" src="https://github.com/user-attachments/assets/4b54581d-9a26-4bce-b444-4c6b1bc34627" />
 
 
