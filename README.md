@@ -5,7 +5,7 @@ I am a results-driven analyst with extensive experience translating needs and ev
 #### ✨ Glance at My Career Through an Interactive Dashboard [(link)](https://public.tableau.com/views/MyCareerDashboard_17418902648460/Page1_ExperienceEducation3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1198" height="601" alt="My Career Dashboard" src="https://github.com/user-attachments/assets/4b54581d-9a26-4bce-b444-4c6b1bc34627" />
 
-#### ✨ What My Coworkers Said About Me [(link)](https://github.com/jayoungs/Farewell-Card-Text-Analysis](https://github.com/jayoungs/Farewell-Card-Text-Analysis/blob/main/Text%20Analysis%20of%20Farewell%20Thank-You%20Card%20from%20Most%20Recent%20Job.pdf))
+#### ✨ What My Coworkers Said About Me [(link)](https://github.com/jayoungs/Farewell-Card-Text-Analysis/blob/main/Text%20Analysis%20of%20Farewell%20Thank-You%20Card%20from%20Most%20Recent%20Job.pdf)
 <!--
 **jayoungs/jayoungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
