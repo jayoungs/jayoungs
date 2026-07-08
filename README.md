@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a nonprofit professional turned data analyst. A decade of work in grants, finance, and social services taught me both the value of reliable data and how to make it useful. That lesson stayed with me. Eventually, it became the work itself.
+
 #### ✨ Glance at My Career Through an Interactive Dashboard [(link)](https://public.tableau.com/views/MyCareerDashboard_17418902648460/Page1_ExperienceEducation3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1198" height="601" alt="My Career Dashboard" src="https://github.com/user-attachments/assets/4b54581d-9a26-4bce-b444-4c6b1bc34627" />
 
